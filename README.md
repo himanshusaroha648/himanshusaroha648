@@ -14,9 +14,7 @@ Hello! I'm Himanshu Saroha, a passionate developer dedicated to creating innovat
 *[Your projects will be listed here]*
 
 ## 📫 Connect With Me
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- GitHub: [[Your GitHub Profile](https://github.com/himanshusaroha648)]
 
 ## 🌟 Current Focus
 *[What you're currently working on or learning]*
